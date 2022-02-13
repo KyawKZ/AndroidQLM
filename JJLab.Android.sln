@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JJLab.Android", "JJLab.Android\JJLab.Android.csproj", "{4902AFF3-0232-4396-B4F1-E87F4F7DD0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4902AFF3-0232-4396-B4F1-E87F4F7DD0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4902AFF3-0232-4396-B4F1-E87F4F7DD0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4902AFF3-0232-4396-B4F1-E87F4F7DD0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4902AFF3-0232-4396-B4F1-E87F4F7DD0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1DFA81-7E4B-42A2-A830-5CDEF6E790E9}
+	EndGlobalSection
+EndGlobal
